@@ -4,7 +4,7 @@
 
 I have 8 years of experience taking mobile apps from the first line of code to production. I'm based in Málaga, Spain, and I'm looking for a Senior Android Engineer, Mobile Lead or product-focused mobile role (remote or Málaga).
 
-### 🌐 [See my portfolio → juanfrancrater.github.io](https://juanfrancrater.github.io/)
+### 🌐 [See my portfolio → juanfrancrater.github.io](https://juanfrancrater.github.io/?ref=ghProfile)
 
 Experience, projects, skills, and how I use AI across the development process. Available in English and Spanish.
 
