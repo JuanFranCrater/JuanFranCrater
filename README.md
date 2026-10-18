@@ -11,7 +11,6 @@ Experience, projects, skills, and how I use AI across the development process. A
 ### 🧰 Tech
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
