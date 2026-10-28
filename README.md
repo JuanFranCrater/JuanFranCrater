@@ -1,22 +1,28 @@
 # Hi, I'm Juan Francisco 👋
 
-**Senior Mobile Engineer** · Android specialist with iOS and React Native experience · Product-minded and AI-driven
+**Senior Mobile Engineer** · Android Specialist · iOS & React Native · Product-minded & AI-driven
 
-I have 8 years of experience taking mobile apps from the first line of code to production. I'm based in Málaga, Spain, and I'm looking for a Senior Android Engineer, Mobile Lead or product-focused mobile role (remote or Málaga).
+Senior Mobile Engineer with **8 years of experience** delivering production-grade Android applications, complemented by solid iOS experience and React Native. Most recently at **Exoticca** (4.5 years), I was involved from the first line of code and became the **sole developer and mobile owner of both the Android and iOS apps** across B2C (*Travelers' App*, ★ 4.2+) and B2B (*My Trip*, ★ 4.7+ — built with an AI-driven workflow in ~2 weeks, helping retain a key client contract).
 
-### 🌐 [See my portfolio → juanfrancrater.github.io](https://juanfrancrater.github.io/)
+Beyond writing code, I own product decisions, define scope and user stories, validate changes with Firebase A/B testing and Snowplow analytics, and mentor developers through code reviews and onboarding. Based in **Málaga, Spain** (open to remote or Málaga).
 
-Experience, projects, skills, and how I use AI across the development process. Available in English and Spanish.
+### 🌐 [Portfolio & Case Studies → juanfrancrater.github.io](https://juanfrancrater.github.io/?ref=github)
 
-### 🧰 Tech
+Experience, product & leadership impact, how I build with AI, personal apps (**MINIMO**), and downloadable CVs (EN / ES).
+
+### 🧰 Core Stack & AI Workflow
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
+![Coroutines & Flow](https://img.shields.io/badge/Coroutines%20%26%20Flow-7F52FF?logo=kotlin&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-3DDC84?logo=android&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?logo=swift&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/juanfbenlop) · [Portfolio](https://juanfrancrater.github.io/)
+[Portfolio](https://juanfrancrater.github.io/?ref=github) · [LinkedIn](https://www.linkedin.com/in/juanfbenlop) · [juanfbenitezlopez@gmail.com](mailto:juanfbenitezlopez@gmail.com)
