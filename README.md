@@ -6,14 +6,13 @@ Senior Mobile Engineer with **8 years of experience** delivering production-grad
 
 Beyond writing code, I own product decisions, define scope and user stories, validate changes with Firebase A/B testing and Snowplow analytics, and mentor developers through code reviews and onboarding. Based in **Málaga, Spain** (open to remote or Málaga).
 
-### 🌐 [Portfolio & Case Studies → juanfrancrater.github.io](https://juanfrancrater.github.io/?ref=github)
+### 🌐 [Portfolio & Case Studies → juanfrancrater.github.io](https://juanfrancrater.github.io/?ref=ghProfile)
 
 Experience, product & leadership impact, how I build with AI, personal apps (**MINIMO**), and downloadable CVs (EN / ES).
 
 ### 🧰 Core Stack & AI Workflow
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
 ![Coroutines & Flow](https://img.shields.io/badge/Coroutines%20%26%20Flow-7F52FF?logo=kotlin&logoColor=white)
 ![Hilt](https://img.shields.io/badge/Hilt-3DDC84?logo=android&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
@@ -25,4 +24,4 @@ Experience, product & leadership impact, how I build with AI, personal apps (**M
 
 ### 📫 Contact
 
-[Portfolio](https://juanfrancrater.github.io/?ref=github) · [LinkedIn](https://www.linkedin.com/in/juanfbenlop) · [juanfbenitezlopez@gmail.com](mailto:juanfbenitezlopez@gmail.com)
+[Portfolio](https://juanfrancrater.github.io/?ref=ghProfile) · [LinkedIn](https://www.linkedin.com/in/juanfbenlop) · [juanfbenitezlopez@gmail.com](mailto:juanfbenitezlopez@gmail.com)
